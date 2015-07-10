@@ -13,6 +13,7 @@ Unique SEO analysis plugin for your wordpress website.
 
 Chuno SEO Analysis plugin is a unique Wordpress plugin for Wordpress website owners. Once you install Chuno SEO Analysis Plugin you will get following information about your Wordpress website.
 
+Official Website: http://www.chunoa.com
 
 1. Duplicate Titles
 
